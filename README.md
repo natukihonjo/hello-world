@@ -4,7 +4,7 @@
 2023/1/12
 
 ##自己紹介リスト
- - [PUGPUG23](https://github.com/PUGPUG23/hello-world)
+ - [natukihonjo](https://github.com/natukihonjo/hello-world)
  - [YuheiHironaka](https://github.com/YuheiHironaka/hello-world)
 
 
